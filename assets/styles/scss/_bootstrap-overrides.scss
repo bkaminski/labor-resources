@@ -1,0 +1,15 @@
+a.nav-link {
+	color: #262262;
+	transition: 0.3s ease-in-out;
+	font-weight: bold;
+	&:hover {
+		color: #262262;
+		transition: 0.3s ease-in-out;
+		text-decoration: underline;
+	}
+}
+.navbar-nav > .active > a { 
+    color: #262262;
+    text-decoration: underline;
+    font-weight: bold;
+}
