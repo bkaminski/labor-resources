@@ -1,0 +1,14 @@
+# ignore node dependency directories
+node_modules/
+
+# ignore scripts.js unminified file
+assets/js/scripts.js
+
+# ignore img assets
+assets/img/
+
+#ignore gulpfile
+gulpfile.js
+
+#ignore screenshot
+screenshot.png
