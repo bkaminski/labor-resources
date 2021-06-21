@@ -40,7 +40,9 @@
 				</div>
 			</div>
 		</div>
-		<div class="col text-center text-white"><small>Copyright &copy; <?php echo date('Y'); ?> Delaware Labor Resources</small>
+		<div class="col text-center text-white">
+			<small>Copyright &copy; <?php echo date('Y'); ?> Delaware Labor Resources</small>
+		</div>
 	</div>
 </footer>
 <?php wp_footer(); ?>

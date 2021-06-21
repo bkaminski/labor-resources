@@ -2,7 +2,7 @@
 	<div class="container pb-5 pt-5">
 		<div class="row pt-5 pb-5">
 			<div class="col-md-3 pt-5">
-				<h1 class="blue-text fw-bold h4">The Team</h1>
+				<h2 class="blue-text fw-bold h1">The Team</h2>
 			</div>
 			<div class="col-md-7 pt-5 pb-5">
 				<div class="row g-0">
