@@ -12,6 +12,7 @@ function enqueue_dmi_styles() {
     wp_enqueue_style('bootstrap-5.0', 'https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css');
     wp_enqueue_style('dmi-styles', get_template_directory_uri() . '/assets/styles/dmiStyles.min.css');
     wp_enqueue_style('font-awesome-pro', 'https://pro.fontawesome.com/releases/v5.15.3/css/all.css', false);
+    wp_enqueue_style('google-fonts', 'https://fonts.googleapis.com/css2?family=Teko:wght@500&display=swap', false);
 }
 add_action('wp_enqueue_scripts', 'enqueue_dmi_styles');
 

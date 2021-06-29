@@ -2,7 +2,7 @@
 	<nav class="navbar navbar-expand-lg fixed-top shadow" style="background: #fff;">
 		<div class="container-fluid">
 			<a class="navbar-brand" href="<?php echo get_home_url(); ?>" >
-				<img src="<?php echo get_home_url(); ?>/wp-content/uploads/FinalLogoDLR.png" alt="Delaware Labor Resources" width="200">	
+				<img src="<?php echo get_home_url(); ?>/wp-content/uploads/FinalLogoDLR.png" alt="Delaware Labor Resources" width="300">	
 			</a>
 			<button class="navbar-toggler rounded-0" type="button" data-bs-toggle="collapse" data-bs-target="#dmiNav" aria-controls="dmiNav" aria-expanded="false" aria-label="Toggle navigation">
 				<i class="fas fa-bars fa-2x"></i>
@@ -15,11 +15,11 @@
 					'container'         => '',
 					'container_class'   => '',
 					'container_id'      => '',
-					'menu_class'        => 'navbar-nav ms-auto',
+					'menu_class'        => 'navbar-nav',
 					'fallback_cb'       => 'WP_Bootstrap_Navwalker::fallback',
 					'walker'            => new WP_Bootstrap_Navwalker(),
 				)); ?>
-				
+
 			</div>
 		</div>
 	</nav>

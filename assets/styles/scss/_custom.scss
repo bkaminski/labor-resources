@@ -1,10 +1,16 @@
 .blue-text {
 	color: #262262;
 }
+.gold-text {
+	color: #eac959;
+}
+.heading-font {
+	font-family: 'Teko', sans-serif;
+}
 .footer {
 	width: 100%;
 	min-height: 350px;
-	background: #262262;
+	background: #222;
 }
 .home-hero {
 	width: 100%;
@@ -17,8 +23,8 @@
 }
 .home-about {
 	width: 100%;
-	min-height: 500px;
-	background: #fff;
+	min-height: 150px;
+	background: #262262;
 }
 .img-strip {
 	width: 100%;
@@ -53,4 +59,23 @@
   	height: auto;
   	transition: .5s ease;
   	backface-visibility: hidden;
+}
+.page-template-page-services-php {
+	background: #262262;
+}
+.cta-services {
+	width: 100%;
+	min-height: 400px;
+	background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../../../../uploads/trash-out.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}
+.cta-services2 {
+	width: 100%;
+	min-height: 400px;
+	background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../../../../uploads/general-labor.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
 }
