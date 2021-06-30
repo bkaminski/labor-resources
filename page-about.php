@@ -12,6 +12,6 @@ get_header() ;?>
 
 <?php echo get_template_part('parts/page', 'about-img-strip'); ?>
 
-<?php echo get_template_part('parts/page', 'the-team'); ?>
+<?php //echo get_template_part('parts/page', 'the-team'); ?>
 
 <?php get_footer(); ?>

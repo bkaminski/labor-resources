@@ -18,3 +18,15 @@ a.nav-link {
 .navbar-brand {
 	margin-left: 1rem;
 }
+.btn-gold {
+    color: #222;
+    background-color: #eac959;
+    border-color: #bf9a1c;
+    transition: 0.3s ease-in-out;
+    &:hover {
+    	color: #222;
+    	background-color: #ffe281;
+    	border-color: #bf9a1c;
+    	transition: 0.3s ease-in-out;
+    }
+}
