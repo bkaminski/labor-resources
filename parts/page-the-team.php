@@ -14,18 +14,18 @@
 					</div>
 					<div class="col-md-3 img-hover" style="background: #fff;">
 						<figure class="figure text-center">
-						<img src="<?php echo the_field('team2');?>" class="img-fluid" alt="<?php echo the_field('team_2_img_alt'); ?>" />
+						<img src="<?php echo the_field('team2');?>" class="img-fluid figure-img" alt="<?php echo the_field('team_2_img_alt'); ?>" />
 						<figcaption class="figure-caption"><?php echo the_field('emp_title2'); ?></figcaption>
 					</div>
 					<div class="col-md-3" style="background: #fff;">
 						<figure class="figure text-center">
-							<img src="<?php echo the_field('team3');?>" class="img-fluid" alt="<?php echo the_field('team_3_img_alt'); ?>" />
+							<img src="<?php echo the_field('team3');?>" class="img-fluid figure-img" alt="<?php echo the_field('team_3_img_alt'); ?>" />
 							<figcaption class="figure-caption"><?php echo the_field('emp_title3'); ?></figcaption>
 						</figure>
 					</div>
 					<div class="col-md-3" style="background: #fff;">
 						<figure class="figure text-center">
-						<img src="<?php echo the_field('team4');?>" class="img-fluid" alt="<?php echo the_field('team_4_img_alt'); ?>" />
+						<img src="<?php echo the_field('team4');?>" class="img-fluid figure-img" alt="<?php echo the_field('team_4_img_alt'); ?>" />
 						<figcaption class="figure-caption"><?php echo the_field('emp_title4'); ?></figcaption>
 					</div>
 					

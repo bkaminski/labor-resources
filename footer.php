@@ -16,7 +16,7 @@
 				</p>
 				<p class="text-white">
 					<span class="fw-bold text-uppercase">Social</span>
-					<br /><a target="_blank" href="#"><i class="fab fa-facebook-square fa-2x"></i></a>
+					<br /><a target="_blank" href="https://www.facebook.com/Delaware-Labor-Resources-337410734244538"><i class="fab fa-facebook-square fa-2x"></i></a>
 				</p>
 			</div>
 			<div class="col-md-8">

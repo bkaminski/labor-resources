@@ -13,7 +13,7 @@
 			<div class="col-md-4 text-center">
 				<div class="pb-2"><i class="fal fa-hands-usd fa-7x blue-text pb-3"></i></div>
 				<h4 class="blue-text fw-bold">Affordability</h4>
-				<p>It is expensive to hire full time employees and after benefits and other expenses like uniforms, those costs add up. We offer a cheap alternative to hiring a full time in house staff and still get quality work.</p>
+				<p>It is expensive to hire full time employees and after benefits and other expenses like uniforms, those costs add up. We offer a cheap alternative to hiring a full time in house staff and still provide quality work.</p>
 			</div>
 			<div class="col-md-4 text-center">
 				<div class="pb-2"><i class="fas fa-thumbs-up fa-7x blue-text pb-3"></i></div>

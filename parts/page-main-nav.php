@@ -2,7 +2,7 @@
 	<nav class="navbar navbar-expand-lg fixed-top shadow" style="background: #fff;">
 		<div class="container-fluid">
 			<a class="navbar-brand" href="<?php echo get_home_url(); ?>" >
-				<img src="<?php echo get_home_url(); ?>/wp-content/uploads/FinalLogoDLR.png" alt="Delaware Labor Resources" width="300">	
+				<img src="<?php echo get_home_url(); ?>/wp-content/uploads/FinalLogoDLR.png" alt="Delaware Labor Resources" width="275">	
 			</a>
 			<button class="navbar-toggler rounded-0" type="button" data-bs-toggle="collapse" data-bs-target="#dmiNav" aria-controls="dmiNav" aria-expanded="false" aria-label="Toggle navigation">
 				<i class="fas fa-bars fa-2x"></i>
